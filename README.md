@@ -1,2 +1,2 @@
 # Star
-Minimalist Custom Chart View Application
+Minimalist extended hours custom chart view application
